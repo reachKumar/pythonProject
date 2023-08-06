@@ -1,3 +1,19 @@
+config -- https://www.tutorialandexample.com/how-to-write-a-configuration-file-in-python
+
+https://pypi.org/project/pylib-helpers/
+
+https://www.geeksforgeeks.org/python-logging-test-output-to-a-file/
+
+https://www.geeksforgeeks.org/python-add-logging-to-python-libraries/
+
+
+----logging ----
+
+https://realpython.com/python-logging/
+
+https://docs.python.org/3/howto/logging.html
+
+
 -- env ---
 pyton -m venv venv
 
